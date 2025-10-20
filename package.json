@@ -2,6 +2,7 @@
   "name": "hw-5-js4",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://yosohanomi.github.io/hw-5-js4/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel src/index.html",
